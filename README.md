@@ -6,15 +6,9 @@ records across 8 major streaming platforms from 2010 to 2024.
 ---
 
 ## Dashboard Preview
-
-### Page 1 — Home
-![Home Page](Screenshot_2026-06-17_150353.png)
-
-### Page 2 — Platform Selection
-![Platform Page](Screenshot_2026-06-17_150418.png)
-
-### Page 3 — Insights
-![Insights Page](Screenshot_2026-06-17_150438.png)
+![Home Page](Home_Page.png)
+![Platform Page](Platform_Page.png)
+![Insights Page](Insights_Page.png)
 
 ---
 
